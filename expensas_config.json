@@ -1,0 +1,8 @@
+{
+  "DB_SERVER": "192.168.0.40\\SQLSERVEREV",
+  "DB_NAME": "expensas",
+  "DB_USER" : "sa",
+  "DB_PASSWORD" : "Carola24"
+ }
+	
+
